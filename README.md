@@ -1,3 +1,3 @@
-# maven-project
+# Tomcat Test
 
 Simple Maven Project
